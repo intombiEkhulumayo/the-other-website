@@ -1,4 +1,3 @@
-# the-other-website
 <!DOCTYPE html>
 <html>
 <head>
